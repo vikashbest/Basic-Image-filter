@@ -1,0 +1,77 @@
+.buttons{
+  
+  width:150pt;
+  height:40pt;
+  margin:2pt 4pt 3pt 10pt;
+  font-size:16pt;
+  border:1px;
+  border-style:outset;
+  font-family:"comic sans ms","courier new","arial";
+}
+#footer{
+  font-size:16pt;
+  text-align:right;
+  margin:4pt 8pt 10pt 5pt;
+  color:#8a1526;
+}
+#canvasdiv{
+  text-align:center;
+}
+
+#filterbox{
+  display:inline-block;
+  width:750pt;
+  border:2px inset #bf97d1;
+  margin:5pt 5pt 15pt 5pt;
+  background-color:#c275e6;
+}
+#filebox{
+  display:inline-block;
+  border:2px dashed #486611;
+  width:400pt;
+  height:80pt;
+  margin:10pt 5pt 10pt 5pt;
+  background-color:#f0c4aa;
+}
+body{
+  background-color:#9fc7e0;
+}
+h1{
+  font-size:30pt;
+  color:#a82b27;
+  margin:20pt 5pt 10pt 15pt;
+  text-align:center;
+}
+canvas{
+  position:relative;
+  height:370pt;
+  border:5pt outset #ffa617;
+  margin: 10pt 5pt 5pt 15pt
+}
+h3{
+  color:#14195c;
+  font-size:20pt;
+  margin:10pt 5pt 2pt 5pt;
+}
+
+#centerit{
+  text-align:center;
+}
+
+#finput{
+  font-size:14pt;
+  margin:5pt 5pt 5pt 65pt;
+}
+h2{
+  font-size:24pt;
+  color: #4341ab;
+}
+
+#resetbtn{
+  width:180pt;
+  height:40pt;
+  margin:10pt 2pt 10pt 10pt;
+  font-size:16pt;
+  border:1px outset;
+  font-family:"helvetica","arial";
+}
